@@ -1,3 +1,5 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+
+It was difficult to get started with the assignment because I didn't understand the instructions very well. It helped a little when I went to TA hours on Wednesday, but I was still quite confused even after I had received help. During class on Thursday, Professor Crouser explained the assignment a bit more in depth, which helped clarify a lot of things. He also encouraged us to work together with peers to help each other, so I found a friend to worked on the assignment with. It was really helpful to have someone figure a problem out together instead of just staring at the problem on my own. We ran into the error message of "computer is not subscriptable," so we added the functions "get_attribute" and "update_attribute" in the computer.py to fix the issue. An advice I would give to someone taking this course in the future is to reach out for help, whether from Professor, TA hours, or asking a friend to collaborate.
